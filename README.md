@@ -1,5 +1,21 @@
 # 💫 About Me:
-I am a dedicated professional with expertise in water management, cybersecurity, and digital transformation. Pursuing a PhD in Computer Science at Extremadura University, I focus on applying AI, ML, digital twins, and cybersecurity to optimize water systems and promote sustainability.
+I am a dedicated professional with water management, cybersecurity, and digital transformation expertise. Pursuing a PhD in Computer Science at Extremadura University, I focus on applying AI, ML, digital twins, and cybersecurity to optimize water systems and promote sustainability.
+
+
+# 🔐 Secure Contact – Hubert
+
+Hello! I use **PGP encryption** to protect private or sensitive communication.  
+Feel free to reach out, and please **encrypt your messages** using my public key.
+
+---
+
+## 📥 Public Key
+
+You can import my public key (`0x91229A56`) directly into your system with:
+
+```bash
+curl -sL https://gist.githubusercontent.com/Homaei/0f35112b1f1dcc385e896d68e008a9eb/raw/0x91229A56.asc | gpg --import
+
 
 
 ## 🌐 Socials:
