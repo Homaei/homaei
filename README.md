@@ -34,3 +34,18 @@ Feel free to reach out, and please **encrypt your messages** using my public key
 📥 **Import it** via terminal:
 ```bash
 curl -sL https://gist.githubusercontent.com/Homaei/0f35112b1f1dcc385e896d68e008a9eb/raw/0x91229A56.asc | gpg --import
+
+✉️ Encrypt a message for me:
+```bash
+gpg --encrypt --armor -r homaei@ieee.org message.txt
+
+🧾 Signed messages from me will include:
+```bash
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+...
+
+
+🔐 Nothing online is 100% secure. For highly sensitive topics, consider talking offline.
+
+– Hubert
