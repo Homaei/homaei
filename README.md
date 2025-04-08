@@ -38,14 +38,15 @@ curl -sL https://gist.githubusercontent.com/Homaei/0f35112b1f1dcc385e896d68e008a
 ✉️ Encrypt a message for me:
 ```bash
 gpg --encrypt --armor -r homaei@ieee.org message.txt
+```
 
 🧾 Signed messages from me will include:
 ```bash
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
-...
+```
 
 
-🔐 Nothing online is 100% secure. For highly sensitive topics, consider talking offline.
+## 🔐 Nothing online is 100% secure. For highly sensitive topics, consider talking offline.
 
 – Hubert
