@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a dedicated professional with water management, cybersecurity, and digital transformation expertise. Pursuing a PhD in Computer Science at Extremadura University, I focus on applying AI, ML, digital twins, and cybersecurity to optimize water systems and promote sustainability.
+I am a dedicated professional with water management, cybersecurity, and digital transformation expertise. Pursuing a PhD in Computer Science at Extremadura University, I focus on applying AI, ML, digital twins, and cybersecurity to optimize water systems and promote sustainability. 
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hubert_homaei) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hubert.homaei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhhomaei) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hubert_homaei) 
