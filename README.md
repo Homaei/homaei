@@ -7,7 +7,7 @@ I am a dedicated professional with water management, cybersecurity, and digital 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mhhomaei)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hubert_homaei)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0000-0002-6108-6632)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=8IGmFIoAAAAJ&hl=en))
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=google-scholar&logoColor=white)]([[https://scholar.google.com/citations?user=YOUR_ID](https://scholar.google.com/citations?user=8IGmFIoAAAAJ&hl=en)](https://scholar.google.com/citations?user=8IGmFIoAAAAJ&hl=en))
 
 
 # 💻 Tech Stack:
